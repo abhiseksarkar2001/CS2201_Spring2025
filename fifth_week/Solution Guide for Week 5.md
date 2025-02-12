@@ -106,7 +106,7 @@ for block in B:
 - `A[2:, 2:]` selects the bottom-right 2×2 sub-matrix.
 - These matrices are combined into a 3D array `B`.
 
-## **7. Summary**
+## **Summary**
 - NumPy arrays are efficient for numerical operations.
 - Slicing allows easy extraction and modification of elements.
 - `[::-1]` reverses an array.
